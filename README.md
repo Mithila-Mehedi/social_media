@@ -1,2 +1,2 @@
 # social_media
-MERN stack
+api using nodeJs, expressJs, mongoDB
